@@ -81,12 +81,14 @@ The model was tested using two tomato images:
 ![Prediction Results1](prediction1.png)
 
 Class: Ripe tomato
+
 Confidence Score: 0.9999498
 
 
 ![Prediction Results2](prediction2.png)
 
 Class: Unripe tomato
+
 Confidence Score: 0.9998983
 
 The model successfully classified both images with high confidence.
