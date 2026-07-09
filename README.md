@@ -40,8 +40,8 @@ The following steps were performed:
 4. Trained the model using the prepared images.
 5. Tested the model using new tomato images to evaluate its predictions.
 
-![Teachable Machine1](teachable_machine1.png)
-![Teachable Machine2](teachable_machine2.png)
+![Teachable Machine1](README_Images/teachable_machine1.png)
+![Teachable Machine2](README_Images/teachable_machine2.png)
 
 ---
 
@@ -78,14 +78,14 @@ The script was executed using Google Colab with test tomato images to verify the
 
 The model was tested using two tomato images:
 
-![Prediction Results1](prediction1.png)
+![Prediction Results1](README_Images/prediction1.png)
 
 Class: Ripe tomato
 
 Confidence Score: 0.9999498
 
 
-![Prediction Results2](prediction2.png)
+![Prediction Results2](README_Images/prediction2.png)
 
 Class: Unripe tomato
 
